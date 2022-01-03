@@ -24,6 +24,8 @@ Que-
 // m --> no of gifts to be delivered
 // k --> starting position
 
+#define ll      long long
+
 void solve(){
     
     ll n, m, k;
@@ -35,6 +37,6 @@ void solve(){
     ll end = (start + steps) % n;
     end = start + 1;
 
-    cout << start;
+    cout << end;
 
 }

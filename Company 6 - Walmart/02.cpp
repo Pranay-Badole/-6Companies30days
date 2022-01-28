@@ -14,7 +14,7 @@ Assuming Alice and Bob play optimally, return true if Alice wins the game, or fa
 
 
 Solution-
-This problem was repeated in some prev company's problem (there it was asked to find the max stones alice can get).
+This problem was repeated in some prev companys problem (there it was asked to find the max stones alice can get).
 
 NICE game theory and DP.
 

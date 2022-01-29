@@ -4,6 +4,8 @@
 * In this initiative, we will solve 15 problems every five days that are frequently asked in the top companies and surely will help in the interviews.
 
 # PROBLEMS
+
+
 <details>
 <summary> GOLDMAN SACHS  ✅ </summary>
 
@@ -28,6 +30,7 @@ Sr No.|  Problems                                                               
 </details>
 
 
+
 <details>
 <summary> AMAZON  ✅ </summary>
 
@@ -48,6 +51,32 @@ Sr No.|  Problems                                                               
 13    | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                           | [Solution Link](Company%202%20-%20AMZ/p13.cpp)
 14    | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                                                                 | [Solution Link](Company%202%20-%20AMZ/p14.cpp)
 15    | [Delete N nodes after M nodes of a linked list](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)               | [Solution Link](Company%202%20-%20AMZ/p15.cpp)
+
+</details>
+
+
+
+
+<details>
+<summary> MICROSOFT  ✅ </summary>
+
+Sr No.|  Problems                                                                                                                                |  My solutions 
+------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------
+1     | [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                                        | [Solution Link](Company%203%20-%20Microsoft/01.cpp)
+2     | [Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                                  | [Solution Link](Company%203%20-%20Microsoft/02.cpp) 
+3     | [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                                            | [Solution Link](Company%203%20-%20Microsoft/03.cpp)
+4     | [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)                   | [Solution Link](Company%203%20-%20Microsoft/04.cpp)
+5     | [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                                        | [Solution Link](Company%203%20-%20Microsoft/05.cpp)
+6     | [Possible Words From Phone Digits](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | [Solution Link](Company%203%20-%20Microsoft/06.cpp)
+7     | [Unit Area of largest region of 1's](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)           | [Solution Link](Company%203%20-%20Microsoft/07.cpp)
+8     | [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                                | [Solution Link](Company%203%20-%20Microsoft/08.cpp)
+9     | [Count Number of SubTrees having given Sum](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)    | [Solution Link](Company%203%20-%20Microsoft/09.cpp)
+10    | [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                                               | [Solution Link](Company%203%20-%20Microsoft/10.cpp)      
+11    | [Generate Binary Numbers](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)                             | [Solution Link](Company%203%20-%20Microsoft/11.cpp)  
+12    | [Find All Four Sum Numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                                 | [Solution Link](Company%203%20-%20Microsoft/12.cpp)                   
+13    | [Bridge edge in a graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                             | [Solution Link](Company%203%20-%20Microsoft/13.cpp)           
+14    | [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)       | [Solution Link](Company%203%20-%20Microsoft/14.cpp)       
+15    | [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                                      | [Solution Link](Company%203%20-%20Microsoft/15.cpp)
 
 
 </details>

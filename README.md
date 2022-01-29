@@ -133,3 +133,29 @@ Sr No.|  Problems                                                               
 15    | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                 | [Solution Link](Company%205%20-%20Intuit/15.cpp)
 
 </details>
+
+
+
+
+<details>
+<summary> WALMART  ✅ </summary>
+
+Sr No.|  Problems                                                                                                                                                   |  My solutions 
+------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------
+1     | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)                                                               | [Solution Link](Company%206%20-%20Walmart/01.cpp)
+2     | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                                                     | [Solution Link](Company%206%20-%20Walmart/02.cpp)
+3     | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)     | [Solution Link](Company%206%20-%20Walmart/03.cpp)
+4     | [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)                                                         | [Solution Link](Company%206%20-%20Walmart/04.cpp)
+5     | [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/)                                                               | [Solution Link](Company%206%20-%20Walmart/05.cpp)
+6     | [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)                                                              | [Solution Link](Company%206%20-%20Walmart/06.cpp)
+7     | [Sorted subsequence of size 3](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/)                                                 | [Solution Link](Company%206%20-%20Walmart/07.cpp)
+8     | [Maximum Height Tree](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/)                                                               | [Solution Link](Company%206%20-%20Walmart/08.cpp)
+9     | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)                                                           | [Solution Link](Company%206%20-%20Walmart/09.cpp)
+10    | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)                                                       | [Solution Link](Company%206%20-%20Walmart/10.cpp)
+11    | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)                                                               | [Solution Link](Company%206%20-%20Walmart/11.cpp)
+12    | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)                                                                 | [Solution Link](Company%206%20-%20Walmart/12.cpp)
+13    | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)                                       | [Solution Link](Company%206%20-%20Walmart/13.cpp)
+14    | [Largest number in K swaps](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/)                                            | [Solution Link](Company%206%20-%20Walmart/14.cpp)
+15    | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                                                     | [Solution Link](Company%206%20-%20Walmart/15.cpp)
+
+</details>

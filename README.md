@@ -80,3 +80,30 @@ Sr No.|  Problems                                                               
 
 
 </details>
+
+
+
+
+<details>
+<summary> ADOBE  ✅ </summary>
+
+Sr No.|  Problems                                                                                                                                                           |  My solutions 
+------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------
+1     | [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                                                         | [Solution Link](Company%204%20-%20Adobe/01.cpp)
+2     | [Longest Arithmetic Progression](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)                                                 | [Solution Link](Company%204%20-%20Adobe/02.cpp)
+3     | [No. of distict Words with k max contiguous vowels](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/)                        | [Solution Link](Company%204%20-%20Adobe/03.cpp)
+4     | [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)                                                                  | [Solution Link](Company%204%20-%20Adobe/04.cpp)
+5     | [Express as sum of power of natural numbers](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)                          | [Solution Link](Company%204%20-%20Adobe/05.cpp)
+6     | [Generate Parentheses](https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/)                                                            | [Solution Link](Company%204%20-%20Adobe/06.cpp)
+7     | [Pots of Gold Game](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/)                                                                               | [Solution Link](Company%204%20-%20Adobe/07.cpp)
+8     | [Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                                                                                     | [Solution Link](Company%204%20-%20Adobe/08.cpp)
+9     | [Next higher palindromic number using same digits](https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/)  | [Solution Link](Company%204%20-%20Adobe/09.cpp)   
+10    | [Winner of an election](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)             | [Solution Link](Company%204%20-%20Adobe/10.cpp)    
+11    | [Amend The Sentence](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                                                                          | [Solution Link](Company%204%20-%20Adobe/11.cpp)   
+12    | [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                                                                | [Solution Link](Company%204%20-%20Adobe/12.cpp)   
+13    | [Minimum operations to convert array A to B](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                            | [Solution Link](Company%204%20-%20Adobe/13.cpp)
+14    | [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)                                    | [Solution Link](Company%204%20-%20Adobe/14.cpp)           
+15    | Most Recent Library                                                                                                                                                 | [Solution Link](Company%204%20-%20Adobe/15.cpp)
+
+
+</details>

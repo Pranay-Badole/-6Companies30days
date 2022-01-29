@@ -5,7 +5,7 @@
 
 # PROBLEMS
 <details>
-<summary> AMAZON  ✅ </summary>
+<summary> GOLDMAN SACHS  ✅ </summary>
 
 Sr No.|  Problems                                                                                                                                                  |  My solutions 
 ------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------
@@ -24,5 +24,30 @@ Sr No.|  Problems                                                               
 13    | [Decode the string](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                                                                   | [Solution Link](Company%201%20-%20GS/13.cpp)
 14    | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                                      | [Solution Link](Company%201%20-%20GS/14.cpp)
 15    | [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)                              | [Solution Link](Company%201%20-%20GS/15.cpp)
+
+</details>
+
+
+<details>
+<summary> AMAZON  ✅ </summary>
+
+Sr No.|  Problems                                                                                                                                                   |  My solutions 
+------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------
+1     | [Maximum Profit](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)                                                                          | [Solution Link](Company%202%20-%20AMZ/1.cpp)
+2     | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                                                       | [Solution Link](Company%202%20-%20AMZ/2.cpp)
+3     | [IPL 2021 - Match Day 2](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/)                                           | [Solution Link](Company%202%20-%20AMZ/3.cpp)
+4     | [Brackets in Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/)                       | [Solution Link](Company%202%20-%20AMZ/4.cpp)
+5     | [Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/)                                                                       | [Solution Link](Company%202%20-%20AMZ/5.cpp)
+6     | [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)                                  | [Solution Link](Company%202%20-%20AMZ/6.cpp)
+7     | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)                    | [Solution Link](Company%202%20-%20AMZ/7.cpp)
+8     | [Count ways to N'th Stair(Order does not matter)](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/)          | [Solution Link](Company%202%20-%20AMZ/8.cpp)
+9     | [Is Sudoku Valid](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/)                                                                       | [Solution Link](Company%202%20-%20AMZ/9.cpp)
+10    | [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)                                                          | [Solution Link](Company%202%20-%20AMZ/p10.cpp)
+11    | [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)                            | [Solution Link](Company%202%20-%20AMZ/p11.cpp)
+12    | [Column name from a given column number](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)                         | [Solution Link](Company%202%20-%20AMZ/p12.cpp)
+13    | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                           | [Solution Link](Company%202%20-%20AMZ/p13.cpp)
+14    | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                                                                 | [Solution Link](Company%202%20-%20AMZ/p14.cpp)
+15    | [Delete N nodes after M nodes of a linked list](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)               | [Solution Link](Company%202%20-%20AMZ/p15.cpp)
+
 
 </details>

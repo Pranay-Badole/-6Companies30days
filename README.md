@@ -107,3 +107,29 @@ Sr No.|  Problems                                                               
 
 
 </details>
+
+
+
+
+<details>
+<summary> INTUIT  ✅ </summary>
+
+Sr No.|  Problems                                                                                                                 |  My solutions 
+------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------
+1     | [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                         | [Solution Link](Company%205%20-%20Intuit/01.cpp)
+2     | [Word Search](https://practice.geeksforgeeks.org/problems/word-search/1/)                                                 | [Solution Link](Company%205%20-%20Intuit/02.cpp)
+3     | [Find the missing no in string](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/)             | [Solution Link](Company%205%20-%20Intuit/03.cpp)
+4     | [Largest number in K swaps](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)           | [Solution Link](Company%205%20-%20Intuit/04.cpp)
+5     | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                                         | [Solution Link](Company%205%20-%20Intuit/05.cpp)
+6     | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)                                           | [Solution Link](Company%205%20-%20Intuit/06.cpp)
+7     | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)         | [Solution Link](Company%205%20-%20Intuit/07.cpp)
+8     | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)                                               | [Solution Link](Company%205%20-%20Intuit/08.cpp)
+9     | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                 | [Solution Link](Company%205%20-%20Intuit/09.cpp)
+10    | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                 | [Solution Link](Company%205%20-%20Intuit/10.cpp)
+11    | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)                                                 | [Solution Link](Company%205%20-%20Intuit/11.cpp)
+12    | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                   | [Solution Link](Company%205%20-%20Intuit/12.cpp)
+13    | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)           | [Solution Link](Company%205%20-%20Intuit/13.cpp)
+14    | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                               | [Solution Link](Company%205%20-%20Intuit/14.cpp)
+15    | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                 | [Solution Link](Company%205%20-%20Intuit/15.cpp)
+
+</details>
